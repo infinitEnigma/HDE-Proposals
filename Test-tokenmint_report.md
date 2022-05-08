@@ -9,9 +9,9 @@ Here is the original call:
 ***********************************************************************************
 HDE task
 
-https://hde.horizen.io/task/1226982867
+[HDE-Proposals](https://hde.horizen.io/task/1226982867)
 
-https://github.com/HorizenOfficial/HDE-Proposals/issues/51
+[github HDE-Proposals](https://github.com/HorizenOfficial/HDE-Proposals/issues/51)
 
 
 Required steps:
@@ -45,7 +45,7 @@ First we need to download and install the sphere wallet and create account (alwa
 ![Create account](Assets/sphere-wallet-prep.gif)
 
 
-*Sphere wallet instalation was easy and smooth and the wallet is responsive with some interesting features.*
+*Sphere wallet installation was easy and smooth and the wallet is responsive with some interesting features.*
 
 Next we should download and install Cobalt wallet. We have to enable `developer mode` in [Brave extensions](brave://extensions/) and `Load unpacked` content from Cobalt zip file. 
 Create user wallet by following clear instructions from Cobalt extension (always keep your **seed** phrase safe).
